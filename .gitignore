@@ -1,0 +1,13 @@
+# common
+**/target/
+
+# ruby
+**/.bundle/
+Gemfile.lock
+
+# haskell
+**/.stack-work
+
+# clojure
+*.jar
+.lein-*
